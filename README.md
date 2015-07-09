@@ -1,2 +1,4 @@
 # zunix
-the implement of unix shell command
+An implement of unix shell commands.
+
+Try to customize your own commands :)
